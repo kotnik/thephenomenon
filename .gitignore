@@ -1,0 +1,5 @@
+*~
+*.pyc
+.env
+full.html
+test.epub
